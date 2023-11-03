@@ -2,7 +2,7 @@
 - 👀 I’m interested in saving the world！
 - 🌱 I’m currently learning python！
 - 💞️ I’m looking to collaborate on learn everything!
-- 📫 How to reach me Email:383060749@qq.com 
+- 📫 Email:383060749@qq.com 
 
 <!---
 advwei/advwei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
